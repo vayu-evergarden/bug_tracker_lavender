@@ -12,9 +12,10 @@ Since the  telegram and xda is full of issue spams , i have decided to create th
 * Rooted or Unrooted :
 * Custom Kernel or Stock Kernel : 
 * Steps to reproduce the problem :
+* Any magisk modules ? : 
 * Logcat : 
 
-##### Note : All the informations are necessary for faster fix of any issues . ( Logcats are  most essential )  you can either paste the logs in hastebin.com and link it here or use the md editor to paste it in a way so that its understandable.
+##### Note : All the informations are necessary for faster fix of any issues . ( Logcats are  most essential )  you can either paste the logs in hastebin.com or del.dog and link it here or use the md editor to paste it in a way so that its understandable. if there is already an issue thats already been posted by someone that you wanna post , you can repost it. 
 
 You can also link to screenshot of the problem if it is possible though its not mandatory.
 
